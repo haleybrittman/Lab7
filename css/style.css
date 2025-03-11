@@ -1,4 +1,29 @@
 td, th {
 	border: 1px solid;
   }
-  
+
+td img {
+  width: 50px;
+  height: 5%;
+  padding: 0px;
+}
+
+h1{
+  text-align: center;
+}
+
+#planets {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+table {
+  font-size: 30px;
+}
+
+body {
+  font-family: "Big Shoulders", sans-serif;
+  font-optical-sizing: auto;
+}
