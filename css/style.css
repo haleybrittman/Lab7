@@ -27,3 +27,11 @@ body {
   font-family: "Big Shoulders", sans-serif;
   font-optical-sizing: auto;
 }
+
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}
